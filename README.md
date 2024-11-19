@@ -30,6 +30,12 @@ Labels: Task, Setup
 3. Using Project Boards
 Project Board Setup:
 
+## Project Board
+The project board contains:
+- **To Do:** All pending issues.  
+- **In Progress:** Tasks currently being worked on.  
+- **Done:** Completed tasks.
+- 
 Create three columns: To Do, In Progress, and Done.
 Add at least five issues to the To Do column, such as:
 Fix login button not responding.
